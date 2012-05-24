@@ -1,0 +1,18 @@
+Homework 
+
+Ex: parse a very interesting time using Chronic (a ruby gem), as weird as possible
+Display it to the screen
+
+
+Ex: use Bit.ly gem to shorten a URL relating to you; then, use the "code" part of the URL (e.g.. the "12345" in bit.ly/12345) to return all available info about the URL.
+
+You'll need to get a bitly API key, which should be free.
+
+Ex:  Restaurants!
+
+3 classes 
+ Restaurant
+ ItalianRestaurant
+ ChineseRestaurant
+
+ for all three, say hello in the relevant language, create at least one of each, ask each restaurant if they have bread (true/false), and if they have noodles (true/false)
